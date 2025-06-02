@@ -24,16 +24,16 @@
 
 ## 🖼 Preview
 
-![RGB Color Picker](https://www.9minecraft.net/wp-content/uploads/2022/02/Cloth-Config-API-mod-for-minecraft-01.png)  
+![](https://i.imgur.com/AkpzyeC.png)
 *A bright color-picker field inside the Cloth Config screen*
 
-![Drop-down & Reset Buttons](https://www.9minecraft.net/wp-content/uploads/2022/02/Cloth-Config-API-mod-for-minecraft-02.png)  
+![](https://www.9minecraft.net/wp-content/uploads/2022/02/Cloth-Config-API.jpg)  
 *Simple drop-down menu with a handy reset button*
 
-![Number Slider Example](https://mc-mod.net/wp-content/uploads/2022/11/Cloth-Config-API-1.png)  
+![](https://www.9minecraft.net/wp-content/uploads/2019/07/Cloth-Config-API-mod-for-Minecraft-01.png)  
 *Drag a slider to fine-tune numeric settings in real time*
 
-![Demo Category View](https://wminecraft.net/wp-content/uploads/2020/07/cloth-config-demo.png)  
+![Demo Category View](https://cdn.minecraftstorage.com/posts/3e4b4d62-6a12-4010-b36d-7e2f2e278703/mainphoto/medium/cloth-config-api.png)  
 *Categories keep big mod configs organised and easy to browse*
 
 ---
